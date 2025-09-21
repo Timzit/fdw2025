@@ -6239,9 +6239,9 @@ address {
     margin-top: 20px;
     width: 90%;
 }
-.logo-small {
+/* .logo-small {
     width: 60%;
-}
+} */
 	.solution-bigdiv{
 		display: flex;
     flex-direction: column;
