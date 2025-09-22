@@ -30,10 +30,10 @@ background:url(../images/background/bg-subheader.jpg);
 
 /* background settings for page subheader */
 .page-projects #subheader{background-image:url(../images/background/subheader-1.jpg);}
-.page-solutions #subheader{background-image:url(../images/background/subheader-22.png);}
+.page-solutions #subheader{background-image:url(../images/background/subheader-22.webp);}
 .page-services #subheader{background-image:url(../images/background/2334_upscayl_2x_realesrgan-x4plus.png);background-position: center;}
 .page-about #subheader{background-image:url(../images/background/subheader-3.jpg);}
-.page-blog #subheader{background-image:url(../images/background/subheader-4.png);}
+.page-blog #subheader{background-image:url(../images/background/subheader-4.webp);}
 .page-shop #subheader{background-image:url(../images/background/subheader-5.jpg);}
 .page-contact #subheader{background-image:url(../images/background/subheader-6.jpg);}
 
@@ -41,7 +41,7 @@ background:url(../images/background/bg-subheader.jpg);
 /* background settings for single project subheader */
 .page-project-1 #subheader{background-image:url(../images/background/subheader-project-1.jpg);}
 .page-project-2 #subheader{background-image:url(../images/background/subheader-project-2.jpg);}
-.page-project-3 #subheader{background-image:url(../images/background/1.png); background-position: bottom;background-color: #222222d2;}
+.page-project-3 #subheader{background-image:url(../images/background/1.webp); background-position: bottom;background-color: #222222d2;}
 .page-project-4 #subheader{background-image:url(../images/background/subheader-project-4.jpg);}
 .page-project-5 #subheader{background-image:url(../images/background/subheader-project-5.jpg);}
 
