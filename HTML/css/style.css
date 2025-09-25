@@ -2700,27 +2700,27 @@ margin:5px 0 5px 0;
 }
 .back {
   background: #03446A;
-  /* background-image: url('../images/secteurs-qui-tourne/agro.png'); */
+  /* background-image: url('../images/secteurs-qui-tourne/agro.webp'); */
   color: white;
   transform: rotateY( 180deg );
 }
 .back1{
-  background-image: url('../images/secteurs-qui-tourne/oil.png');
+  background-image: url('../images/secteurs-qui-tourne/oil.webp');
 }
 .back2{
-  background-image: url('../images/secteurs-qui-tourne/electr.png');
+  background-image: url('../images/secteurs-qui-tourne/electr.webp');
 }
 .back3{
-  background-image: url('../images/secteurs-qui-tourne/Water.png');
+  background-image: url('../images/secteurs-qui-tourne/Water.webp');
 }
 .back4{
-  background-image: url('../images/secteurs-qui-tourne/cimenterie.png');
+  background-image: url('../images/secteurs-qui-tourne/cimenterie.webp');
 }
 .back5{
-  background-image: url('../images/secteurs-qui-tourne/agro.png');
+  background-image: url('../images/secteurs-qui-tourne/agro.webp');
 }
 .back6{
-  background-image: url('../images/secteurs-qui-tourne/pharma-chimie.jpg');
+  background-image: url('../images/secteurs-qui-tourne/pharma-chimie.webp');
 }
 
 	.de_tab .de_nav li span {

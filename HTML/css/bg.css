@@ -31,7 +31,7 @@ background:url(../images/background/bg-subheader.jpg);
 /* background settings for page subheader */
 .page-projects #subheader{background-image:url(../images/background/subheader-1.jpg);}
 .page-solutions #subheader{background-image:url(../images/background/subheader-22.webp);}
-.page-services #subheader{background-image:url(../images/background/2334_upscayl_2x_realesrgan-x4plus.png);background-position: center;}
+.page-services #subheader{background-image:url(../images/background/2334_upscayl_2x_realesrgan-x4plus.webp);background-position: center;}
 .page-about #subheader{background-image:url(../images/background/subheader-3.jpg);}
 .page-blog #subheader{background-image:url(../images/background/subheader-4.webp);}
 .page-shop #subheader{background-image:url(../images/background/subheader-5.jpg);}
@@ -47,10 +47,10 @@ background:url(../images/background/bg-subheader.jpg);
 
 
 /* background settings for section */
-#section-features{ background:url(../images/background/bg-1.jpg) top fixed;}
-#section-steps{ background:url(../images/background/bg098.png) top fixed;
+#section-features{ background:url(../images/background/bg.webp) top fixed;}
+#section-steps{ background:url(../images/background/bg098.webp) top fixed;
 background-repeat: no-repeat;}
-#section-news{ background:url(../images/background/4592.png) top fixed;
+#section-news{ background:url(../images/background/4592.webp) top fixed;
 background-repeat: no-repeat;}
 /* #section-services{ background:url(../images/background/subheader-4.png) top fixed;
 background-repeat: no-repeat;} */
@@ -64,7 +64,7 @@ background-repeat: no-repeat;} */
 #section-hero-6{ background:url(../images/background/bg-17.jpg) top fixed;}
 #section-deco-1{ background:url(../images/background/bg-4.jpg) top fixed;}
 #section-deco-2{ background:url(../images/background/bg-5.jpg) top fixed;}
-#section-deco-3{ background:url(../images/background/bg-15.png) top fixed;}
+#section-deco-3{ background:url(../images/background/bg.webp) top fixed;}
 #section-history-bg{background:url(../images-slider/wide1.jpg) top fixed;}
 #section-skills-bg{background:url(../images-slider/wide2.jpg) top fixed;}
 
